@@ -1,2 +1,2 @@
 # pythonLab
-My Lab for Python
+My repository for Python examples and experiments
